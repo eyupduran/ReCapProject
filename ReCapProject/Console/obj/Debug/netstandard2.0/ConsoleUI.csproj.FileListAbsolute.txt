@@ -1,0 +1,16 @@
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\ConsoleUI.deps.json
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\ConsoleUI.dll
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\ConsoleUI.pdb
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.csproj.CopyComplete
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.dll
+C:\Users\Eyüp\source\repos\Kaçırılankısımlar\ReCapProject\Console\obj\Debug\netstandard2.0\ConsoleUI.pdb
